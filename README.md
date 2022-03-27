@@ -20,7 +20,7 @@ Leaflet, Mapbox.
 ## Results: 
 
 
-Using two javascript file [challenge_logic.js](), one css file [style.css]() and [index.html]() file I have generated a Earthquake map where I added 3 map style from Mapbox in the base map and three geojason layer (two earthquake data sets and tectonic plate data )in the Overlay .
+Using two javascript file [challenge_logic.js](https://github.com/NishatSultana3538/Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/js/challenge_logic.js), one css file [style.css](https://github.com/NishatSultana3538/Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/css/style.css) and [index.html](https://github.com/NishatSultana3538/Mapping_Earthquakes/blob/main/Earthquake_Challenge/index.html) file I have generated a Earthquake map where I added 3 map style from Mapbox in the base map and three geojason layer (two earthquake data sets and tectonic plate data )in the Overlay .
 
 Below is how the Overlay map looks like with three different map style:
 Street view:
