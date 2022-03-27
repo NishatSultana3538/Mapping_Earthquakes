@@ -25,29 +25,29 @@ Using two javascript file [challenge_logic.js](), one css file [style.css]() and
 Below is how the Overlay map looks like with three different map style:
 Street view:
 
-![street_view]()
+![street_view](https://github.com/NishatSultana3538/Mapping_Earthquakes/blob/main/Earthquake_Challenge/images/street_view.png)
 
 Satellite Street view:
 
-![Satellite_street_view]()
+![Satellite_street_view](https://github.com/NishatSultana3538/Mapping_Earthquakes/blob/main/Earthquake_Challenge/images/satellite_view.png)
 
 Navigation Night view:
 
-![Navigation_night]()
+![Navigation_night](https://github.com/NishatSultana3538/Mapping_Earthquakes/blob/main/Earthquake_Challenge/images/Navigation_night_view.png)
 
 
 
 The map view with all earthquake data:
-![all earthquake]()
+![all earthquake](https://github.com/NishatSultana3538/Mapping_Earthquakes/blob/main/Earthquake_Challenge/images/all_earthquakes.png)
 
 The map view with all earthquake data and tectonic plate data:
-![all earthquake & tectonic plate]()
+![all earthquake & tectonic plate](https://github.com/NishatSultana3538/Mapping_Earthquakes/blob/main/Earthquake_Challenge/images/all%20earthqukes_tectonic%20plates.png)
 
 The map view with tectonic plate  data:
-![tectonic plate]()
+![tectonic plate](https://github.com/NishatSultana3538/Mapping_Earthquakes/blob/main/Earthquake_Challenge/images/tectonic-plates.png)
 
-The map view with major earthquake data:
-![major earthquake ]()
+The map view with major earthquake & tectonic plates data:
+![major earthquake_tectonic_plates](https://github.com/NishatSultana3538/Mapping_Earthquakes/blob/main/Earthquake_Challenge/images/major_earthquakes_tectonic_plates.png)
 
 
 
